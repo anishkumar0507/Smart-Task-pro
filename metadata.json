@@ -1,0 +1,8 @@
+{
+  "name": "SmartTask Pro",
+  "description": "A production-ready task management application featuring JWT authentication, real-time search, status filtering, and AI-powered task optimization using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
