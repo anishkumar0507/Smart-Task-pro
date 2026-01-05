@@ -100,7 +100,7 @@ JWT_EXPIRE=7d
 
 1. Update `vite.config.ts` base path to your repository name:
 ```typescript
-base: '/your-repo-name/'
+base: '/Smart-Task-pro/'
 ```
 
 2. Build the project:
